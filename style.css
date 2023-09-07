@@ -82,7 +82,7 @@ h3 {
     }
 }
 
-@media (max-width: 800px) {
+@media (max-width: 799px) {
 .grid-container {
     grid-template-columns: 1fr;
 }
